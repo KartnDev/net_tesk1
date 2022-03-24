@@ -1,0 +1,15 @@
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\bin\Debug\net6.0\Task1_Nets.exe
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\bin\Debug\net6.0\Task1_Nets.deps.json
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\bin\Debug\net6.0\Task1_Nets.runtimeconfig.json
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\bin\Debug\net6.0\Task1_Nets.dll
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\bin\Debug\net6.0\ref\Task1_Nets.dll
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\bin\Debug\net6.0\Task1_Nets.pdb
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.csproj.AssemblyReference.cache
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.AssemblyInfoInputs.cache
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.AssemblyInfo.cs
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.csproj.CoreCompileInputs.cache
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.dll
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\ref\Task1_Nets.dll
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.pdb
+C:\Users\dmutp\RiderProjects\Task1_Nets\Task1_Nets\obj\Debug\net6.0\Task1_Nets.genruntimeconfig.cache
